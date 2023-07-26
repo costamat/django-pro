@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    color:white;
+    font: bolder;
+    padding-left: 1%;
+    
+}
+
+.hello{
+    background-color: #f08;
+
+}
+
+.search-bar{
+    padding-right: 1%;
+}
+
+.nav-link{
+    color: white;
+}
